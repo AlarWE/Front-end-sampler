@@ -86,7 +86,7 @@ Responsive customizations
 ## Standards
 
 When working on the project follow our coding requirements:
-- [Standards and requirements](https://github.com/webexperttln/Front-end_sampler/blob/master/Standards_and_requirements.md)
+- [Standards and requirements](https://github.com/webexperttln/Front-end-sampler/blob/master/Standards_and_requirements.md)
 
 ## Supported browsers
 
