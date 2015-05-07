@@ -77,7 +77,7 @@ Responsive customizations
 * CSS test
   - Create 8 anchor blocks (link them to: http://www.we.ee/, dimensions: 150x20px, margin: 0 0 10px 10px; background:#000;). Use CSS to display the link URL inside the block. Float them left and use clear:left; on every third block. The last two elements must have a red background-color and no text inside them. Make the second block blink a green background color and rotate.
 
-## Download PSD or Sketch files
+## Download PSD or Sketch
 
 [Sketch.zip](Sketch.zip?raw=true) (24.2 MB)
 
