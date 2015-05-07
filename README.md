@@ -79,7 +79,7 @@ Responsive customizations
 
 ## Download PSD or Sketch files
 
-[Sketch.zip](Sketch.zip?raw=true) (24.8 MB)
+[Sketch.zip](Sketch.zip?raw=true) (24.2 MB)
 
 [PSD.zip](PSD.zip?raw=true) (8.6 MB)
 
