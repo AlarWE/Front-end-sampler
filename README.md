@@ -1,6 +1,8 @@
 # Front-end Sampler
 ## Project brief
 
+Convert the following Woodland web site to HTML/CSS/JS.
+
 ![Preview](Preview.png)
 
 ## Requirements
@@ -67,11 +69,19 @@ Responsive customizations
 * Make the whole page slide left when menu is open. Smooth with CSS transition.
 * Make sure everything looks good and there is no overflow and no horizontal scrollbar.
 
+##Step 8
+
+* Create a file called test.html
+* jQuery test
+  - Create a datepicker (using jQueryUI datepicker) that has "disabled" class on certain dates. (10.05.2015, 12.05.2015 & 18.05.2015)
+* CSS test
+  - Create 8 anchor blocks (link them to: http://www.we.ee/, dimensions: 150x20px, margin: 0 0 10px 10px; background:#000;). Use CSS to display the link URL inside the block. Float them left and use clear:left; on every third block. The last two elements must have a red background-color and no text inside them. Make the second block blink a green background color and rotate.
+
 ## Download PSD or Sketch files
 
 [Sketch.zip](Sketch.zip?raw=true) (24.8 MB)
 
-[PSD.zip](PSD.zip?raw=true) (24.8 MB)
+[PSD.zip](PSD.zip?raw=true) (8.6 MB)
 
 ## Standards
 
