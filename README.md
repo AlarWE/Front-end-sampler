@@ -8,8 +8,8 @@ Convert the following Woodland web site to HTML/CSS/JS.
 ## Requirements
 
 ###Needed files:
-* Flexslider for frontpage slider - http://www.woothemes.com/flexslider/
-* JqueryUI Datepicker & Autocomplete - http://jqueryui.com/download/
+* Slick for frontpage slider - http://kenwheeler.github.io/slick/
+* Datepicker Flatpickr’ga https://github.com/chmln/flatpickr
 * Google Maps API - https://developers.google.com/maps/documentation/javascript/tutorial
 * Fonts - https://www.google.com/fonts or using @font-face directly
 
